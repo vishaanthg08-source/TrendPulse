@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyN2eUP7foF34Qb0O5uUuzXr",
+      "authorship_tag": "ABX9TyPW1x6w0HVF/+nAc3Cup3Ua",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -896,6 +896,16 @@
       ],
       "metadata": {
         "id": "XkYhUMPXPjzB"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## Content strategy briefing\n",
+        "Entertainment (29.9%) and Music (20.8%) dominate trending, together over half of the records. Videos reach trending in a median of 4 days after publishing. Most videos leave the list quickly: the median lifespan is 2 days, and only a small share last a week (see the retention table). Gaming, Music and Pets & Animals stay longest (8-9 days on average), while News & Politics and Shows vanish fastest (under 3 days). GB has the highest average views (5.9M) and India the lowest (0.96M). Limitation: the data covers only Nov 2017 to Jun 2018 and only videos that did trend, not those that did not, so it cannot show what makes a video fail to trend."
+      ],
+      "metadata": {
+        "id": "17YALhw6QvU3"
       }
     }
   ]
